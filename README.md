@@ -35,7 +35,7 @@
 
 ## Single Command :
 ```
-pip install lolcat ; pip install requests ; git clone https://github.com/muneebwanee/iptracker2.0.git ; cd tracker ; python3 tracker -v (your victim ip here)
+pip install lolcat ; pip install requests ; git clone https://github.com/muneebwanee/iptracker2.0.git ; cd iptracker2.0 ; python3 tracker -v (your victim ip here)
 ````
 
 
