@@ -31,11 +31,11 @@
 * `cd iptracker2.0`
 #### > Run : `python tracker -v (your victim ip here)`
 
-#### ex:- python tracker -v 168.212.226.204
+#### ex:- python3 tracker -v 168.212.226.204
 
 ## Single Command :
 ```
-pip install lolcat ; pip install requests ; git clone https://github.com/muneebwanee/iptracker2.0.git ; cd tracker ; python tracker -v (your victim ip here)
+pip install lolcat ; pip install requests ; git clone https://github.com/muneebwanee/iptracker2.0.git ; cd tracker ; python3 tracker -v (your victim ip here)
 ````
 
 
