@@ -1,8 +1,4 @@
 <p align="center">
-  
-# 工尸ㄒ尺闩⼕长㠪尺己.龱 
-</p>
-<p align="center">
 <a href="#"><img title="Made in India" src="https://img.shields.io/badge/MADE%20IN-INDIA-green?colorA=%2320fb35&colorB=%23fba320&style=for-the-badge"></a>
 </p>
 <p align="center">
