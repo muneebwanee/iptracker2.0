@@ -40,6 +40,8 @@ pip install lolcat ; pip install requests ; git clone https://github.com/muneebw
 
 #### Remove Brackets"()" @ (your victim ip here)
 
+## Ex:- IMAGE
+
 <p align="center">
 <a href="#"><img title="iptracker2.0" src="https://1.bp.blogspot.com/-B3P4P2SkKcw/X-YJR489oxI/AAAAAAAAASE/LDtgOkgI4m4Wg1fWER9KDB3z7jxXjxCawCLcBGAsYHQ/s2048/iptracker2.0.jpg"></a>
 </p>
