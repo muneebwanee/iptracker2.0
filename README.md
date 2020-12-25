@@ -29,7 +29,7 @@
 * `pip install requests`
 * `git clone https://github.com/muneebwanee/iptracker2.0`
 * `cd iptracker2.0`
-#### > Run : `python tracker -v (your victim ip here)`
+#### > Run : `python3 tracker -v (your victim ip here)`
 
 #### ex:- python3 tracker -v 168.212.226.204
 
